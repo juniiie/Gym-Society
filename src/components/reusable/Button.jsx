@@ -15,6 +15,7 @@ const BTN = styled.button`
   text-transform: uppercase;
   padding: 25px;
   background-color: red;
+  border-radius: 40px;
   color: white;
   cursor: pointer;
   animation: ${(props) => props.animation};

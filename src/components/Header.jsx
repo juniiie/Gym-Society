@@ -40,7 +40,7 @@ export default function Header() {
           })}
         </Menus>
 
-        <Button>Became a member</Button>
+        <Button>Become A member</Button>
       </Right>
     </Box>
   );
