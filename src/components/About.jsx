@@ -20,15 +20,15 @@ export default function About() {
         </H1>
 
         <H2>
-          Brook presents your services with flexible, convenient and cdpose
-          layouts. You can select your favorite layouts & elements for cular ts
-          with unlimited ustomization possibilities. Pixel-perfect replication
-          of the designers is intended.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+          mauris nulla, rhoncus eu vulputate at, consequat vel mi. Sed eu. Lorem
+          ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mauris
+          nulla, rhoncus eu vulputate at, consequat vel mi. Sed eu.
         </H2>
 
         <Paragraph>
-          Brook presents your services with flexible, convefnient and chient
-          anipurpose layouts. You can select your favorite layouts.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+          mauris nulla, rhoncus eu vulputate at, consequat vel mi. Sed eu.
         </Paragraph>
 
         <Button style={{ marginTop: 30 }}>Became a member</Button>

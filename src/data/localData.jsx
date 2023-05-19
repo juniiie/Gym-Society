@@ -7,22 +7,22 @@ export const servicesData = [
     title: "QUALITY EQUIPMENT",
     icon: <CgGym />,
     description:
-      "The sea freight service has grown consider ably in recent years. We spend timetting to kn.",
+      "We pride ourselves in our quality equipment that is made to ensure your overall safety during your work out.",
   },
   {
     id: 2,
-    title: "HEALTH CARING",
+    title: "WE CARE",
     icon: <GiGymBag />,
 
     description:
-      "The sea freight service has grown consider ably in recent years. We spend timetting to kn.",
+      "A simple philosophy that drives us to create a community and a gym for all. No judgments means room for everyone, regardless of shape, size, age, race, gender or fitness level. ",
   },
   {
     id: 3,
-    title: "GYM STRATEGIES",
+    title: "OPEN SPACE",
     icon: <SiOpenaigym />,
 
     description:
-      "The sea freight service has grown consider ably in recent years. We spend timetting to kn.",
+      "Our gyms have an easy vibe to them, they're massive, designed to offer you more variety and space to keep you motivated.",
   },
 ];

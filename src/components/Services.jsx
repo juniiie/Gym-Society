@@ -11,10 +11,10 @@ export default function Services() {
     <Container>
       <InnerContainer>
         <Box>
-          <WithBarTitle title="Our Services for you" />
+          <WithBarTitle title="Why Gym Society?" />
           <Header>
             <H1 style={{ width: "50%", fontSize: 40 }}>
-              PUSH YOUR LIMITS FORWARD WE OFFER TO YOU
+              Make fitness your priority.
             </H1>
             <Button>More Services</Button>
           </Header>
