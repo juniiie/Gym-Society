@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import bg from "../assets/img_9.webp";
+import bg from "../assets/img_8.jpg";
 import Button from "./reusable/Button";
 import H1 from "./reusable/H1";
 import H2 from "./reusable/H2";
@@ -60,5 +60,5 @@ const Right = styled.div`
 const Image = styled.img`
   width: 70%;
   height: 80%;
-  overflow: hidden;
+  object-fit: cover;
 `;
